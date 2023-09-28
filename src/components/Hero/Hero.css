@@ -1,0 +1,32 @@
+
+
+.heroContainer{
+    
+
+    height: 400px;
+    background-color: black;
+    color: white;
+    margin-top: 40px;
+    background-image: url(./images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.myDataContainer{
+
+    text-align: center;
+    width: fit-content;
+    padding-left: 30px;
+    padding-top: 60px;
+}
+
+
+.myDataContainer button{
+    background-color: black;
+    color: white;
+    border: solid white 1px;
+    padding: 7px 15px;
+}

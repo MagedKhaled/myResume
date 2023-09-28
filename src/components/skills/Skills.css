@@ -1,0 +1,19 @@
+.skillsContainer{
+    margin-top: 80px;
+    color: white;
+    padding: 50px 120px;
+}
+
+
+.skillsContainer h1{
+    font-size: 60px;
+}
+
+
+.skillsContainer hr {
+    border: 2px solid white; /* Set the border color and thickness */
+    margin: 20px 50px; /* Add some margin for spacing */
+    width: 75%;
+    
+  }
+  

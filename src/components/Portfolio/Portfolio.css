@@ -1,0 +1,35 @@
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    border-radius: 0;
+    color: white;
+    width: 300px;
+    height: 200px;
+
+}
+
+.portContainer hr {
+    border: 2px solid white; 
+    width: 50%;
+    
+  }
+
+.grayBG{
+    color: white !important;
+    background-color: rgb(145, 142, 136) !important;
+
+}
+
+.darkBG{
+    color: white !important;
+    background-color: rgb(24, 23, 22) !important;
+
+}
